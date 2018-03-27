@@ -1,0 +1,7 @@
+You’ve just joined Deep Learning Specialization. Congratulations—you’ve taken a huge step by committing to mastering a skill. We’re excited for you!
+Before you dive in, we have a few tips to help you succeed:
+1. Start with the first course. There are 5 courses and a Capstone Project in this Specialization. The first course is Neural Networks and Deep Learning. It's available to start today. 
+2. Set a schedule and mark your calendar. There’s a lot of material to learn, and our most successful learners tell us they’re diligent about setting a schedule and sticking to it. In most Specializations you should plan to complete one course each 4-6 weeks.
+3. Find a study group. Learners are much more likely to successfully complete a course if they enroll with friends, or connect with other learners in the course forums.
+Best of luck as you get started. We’ll see you in Deep Learning!
+Go to My Specializations
